@@ -40,10 +40,10 @@ The methodology consists of the following main steps:
 
 The following report contains results for four (4) contract files:
 
-    1) Migrationsl.sol
-    2) contracts/AccessToken.sol
-    3) contracts/EarlyAccess.sol
-    4) contracts/PaymentSubscription.sol
+    1) https://github.com/MainFrame-Protocol/Smart-Contracts/contracts/Migrationsl.sol
+    2) https://github.com/MainFrame-Protocol/Smart-Contracts/contracts/main/AccessToken.sol
+    3) https://github.com/MainFrame-Protocol/Smart-Contracts/contracts/main/EarlyAccess.sol
+    4) https://github.com/MainFrame-Protocol/Smart-Contracts/contracts/main/PaymentSubscription.sol
     
 #### Vulnerabilities
 
